@@ -36,6 +36,7 @@
             this.ProgressBar = new System.Windows.Forms.ProgressBar();
             this.label1 = new System.Windows.Forms.Label();
             this.QualityCombo = new System.Windows.Forms.ComboBox();
+            this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // UrlTXT
@@ -110,6 +111,7 @@
             // QualityCombo
             // 
             this.QualityCombo.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.QualityCombo.Enabled = false;
             this.QualityCombo.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.QualityCombo.FormattingEnabled = true;
             this.QualityCombo.Items.AddRange(new object[] {
@@ -122,11 +124,22 @@
             this.QualityCombo.TabIndex = 8;
             this.QualityCombo.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.ForeColor = System.Drawing.Color.Red;
+            this.label2.Location = new System.Drawing.Point(121, 89);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(60, 13);
+            this.label2.TabIndex = 9;
+            this.label2.Text = "In Sviluppo";
+            // 
             // YTVideoAudioDownloader
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(361, 110);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.QualityCombo);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.ProgressBar);
@@ -152,6 +165,7 @@
         private System.Windows.Forms.ProgressBar ProgressBar;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.ComboBox QualityCombo;
+        private System.Windows.Forms.Label label2;
     }
 }
 
