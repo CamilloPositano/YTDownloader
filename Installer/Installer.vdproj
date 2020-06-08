@@ -3,7 +3,7 @@
 "VSVersion" = "3:800"
 "ProjectType" = "8:{978C614F-708E-4E1A-B201-565925725DBA}"
 "IsWebType" = "8:FALSE"
-"ProjectName" = "8:Installer"
+"ProjectName" = "8:YTDownloader"
 "LanguageId" = "3:1040"
 "CodePage" = "3:1252"
 "UILanguageId" = "3:1040"
@@ -946,12 +946,6 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_D9CCF93F5B41F96D6A9866CFFA52D6BD"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_0642CF20DE924A40A84D3D60C0F66CDA"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -1651,6 +1645,12 @@
         "OwnerKey" = "8:_DD087EF130869221D2A0BA8A7D5D3EC1"
         "MsmSig" = "8:_UNDEFINED"
         }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_D9CCF93F5B41F96D6A9866CFFA52D6BD"
+        "MsmSig" = "8:_UNDEFINED"
+        }
     }
     "Configurations"
     {
@@ -1659,7 +1659,7 @@
         "DisplayName" = "8:Debug"
         "IsDebugOnly" = "11:TRUE"
         "IsReleaseOnly" = "11:FALSE"
-        "OutputFilename" = "8:Debug\\Installer.msi"
+        "OutputFilename" = "8:Debug\\YTDownloader.msi"
         "PackageFilesAs" = "3:2"
         "PackageFileSize" = "3:-2147483648"
         "CabType" = "3:1"
@@ -1669,6 +1669,22 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
+            }
         }
         "Release"
         {
@@ -1685,6 +1701,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
     }
     "Deployable"
@@ -5615,7 +5639,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Youtube Downloader"
         "ProductCode" = "8:{588C6FAF-3884-46BF-A41F-07AC51E0C0E3}"
-        "PackageCode" = "8:{13B1F5DF-6539-4B77-B914-346EFFB1980B}"
+        "PackageCode" = "8:{1E931E46-330C-46AC-8B04-471A5A45A564}"
         "UpgradeCode" = "8:{07139BCC-5929-4866-A564-B4D54B227ABC}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -6164,7 +6188,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_0642CF20DE924A40A84D3D60C0F66CDA"
             {
-            "SourcePath" = "8:..\\YoutubeDownloader\\obj\\Release\\Youtube Downloader.exe"
+            "SourcePath" = "8:..\\YoutubeDownloader\\obj\\Debug\\Youtube Downloader.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_10CA7F793AAC420DABB0484D3AD9BC6E"

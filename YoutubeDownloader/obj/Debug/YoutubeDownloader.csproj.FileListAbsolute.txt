@@ -34,7 +34,6 @@ C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\Youtub
 C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\Youtube Downloader.pdb
 C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.MainMenu.resources
 C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.YTVideoAudioDownloader.resources
-C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csprojAssemblyReference.cache
 C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\Youtube Downloader.exe.config
 C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\Youtube Downloader.exe
 C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\Youtube Downloader.pdb
@@ -72,3 +71,4 @@ C:\GIT\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csproj.Co
 C:\GIT\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csproj.CopyComplete
 C:\GIT\YoutubeDownloader\YoutubeDownloader\obj\Debug\Youtube Downloader.exe
 C:\GIT\YoutubeDownloader\YoutubeDownloader\obj\Debug\Youtube Downloader.pdb
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.YTAudioDownloader.resources
