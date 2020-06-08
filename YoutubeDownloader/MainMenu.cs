@@ -37,5 +37,11 @@ namespace YoutubeDownloader
                 YTVideoAudioDownloader.Show();
             }
         }
+
+        private void AudioGoBtn_Click(object sender, EventArgs e)
+        {
+            YTAudioDownloader yTAudioDownloader = new YTAudioDownloader();
+            yTAudioDownloader.Show();
+        }
     }
 }

@@ -35,3 +35,40 @@ C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\Youtub
 C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.MainMenu.resources
 C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.YTVideoAudioDownloader.resources
 C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csprojAssemblyReference.cache
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\Youtube Downloader.exe.config
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\Youtube Downloader.exe
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\Youtube Downloader.pdb
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\AngleSharp.dll
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\Newtonsoft.Json.dll
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Buffers.dll
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Memory.dll
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Numerics.Vectors.dll
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Text.Encodings.Web.dll
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Text.Json.dll
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.ValueTuple.dll
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeExplode.dll
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\AngleSharp.xml
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\Newtonsoft.Json.xml
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Buffers.xml
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Memory.xml
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Numerics.Vectors.xml
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Text.Encodings.Web.xml
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Text.Json.xml
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.ValueTuple.xml
+C:\GIT\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeExplode.xml
+C:\GIT\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.YTAudioDownloader.resources
+C:\GIT\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.YTVideoAudioDownloader.resources
+C:\GIT\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.MainMenu.resources
+C:\GIT\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.Properties.Resources.resources
+C:\GIT\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csproj.GenerateResource.cache
+C:\GIT\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csproj.CoreCompileInputs.cache
+C:\GIT\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csproj.CopyComplete
+C:\GIT\YoutubeDownloader\YoutubeDownloader\obj\Debug\Youtube Downloader.exe
+C:\GIT\YoutubeDownloader\YoutubeDownloader\obj\Debug\Youtube Downloader.pdb

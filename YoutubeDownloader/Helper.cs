@@ -33,6 +33,25 @@ namespace YoutubeDownloader
 
             return folderPath + @"\" + title + "." + streamInfo.Container;
         }
+        public static string BuildPath(Video videoInfo, IStreamInfo streamInfo, Label completeText)
+        {
+            completeText.Text = "";
+            var title = videoInfo.Title;
+            foreach (var charToRemove in Consts.specialChars)
+            {
+                title = title.Replace(charToRemove, String.Empty);
+            }
+            string folderPath = "";
+            FolderBrowserDialog folderBrowserDialog1 = new FolderBrowserDialog();
+
+            if (folderBrowserDialog1.ShowDialog() == DialogResult.OK)
+                folderPath = folderBrowserDialog1.SelectedPath;
+
+            if (!Directory.Exists(folderPath))
+                throw new Exception("La cartella di destinazione non è stata trovata!");
+
+            return folderPath + @"\" + title + ".mp3";
+        }
         public static string ManifestExtractor(string fullYoutubePath)
         {
             if (String.IsNullOrEmpty(fullYoutubePath) && String.IsNullOrWhiteSpace(fullYoutubePath))

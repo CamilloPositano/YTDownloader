@@ -9,6 +9,6 @@ namespace YoutubeDownloader.Constats
 {
     public static class Consts
     {
-        public static readonly string[] specialChars = { ":", "|", "/", @"\" };
+        public static readonly string[] specialChars = { ":", "|", "/", @"\", "?" };
     }
 }
