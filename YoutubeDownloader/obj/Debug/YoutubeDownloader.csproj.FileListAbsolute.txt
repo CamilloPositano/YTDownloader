@@ -1,0 +1,37 @@
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.Properties.Resources.resources
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csproj.GenerateResource.cache
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csproj.CopyComplete
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\AngleSharp.dll
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Buffers.dll
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Memory.dll
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Text.Json.dll
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.ValueTuple.dll
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeExplode.dll
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\AngleSharp.xml
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Buffers.xml
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Memory.xml
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Text.Json.xml
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\System.ValueTuple.xml
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeExplode.xml
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\Youtube Downloader.exe.config
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\Youtube Downloader.exe
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\Youtube Downloader.pdb
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\Youtube Downloader.exe
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\Youtube Downloader.pdb
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.MainMenu.resources
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.YTVideoAudioDownloader.resources
+C:\Users\camil\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csprojAssemblyReference.cache
